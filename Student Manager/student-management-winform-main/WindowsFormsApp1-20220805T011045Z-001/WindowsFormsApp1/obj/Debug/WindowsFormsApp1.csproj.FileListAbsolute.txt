@@ -1,0 +1,45 @@
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IT Learning\.NET\BTVN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\Compressed\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\Compressed\student-management-winform-main_2\student-management-winform-main\WindowsFormsApp1-20220805T011045Z-001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
